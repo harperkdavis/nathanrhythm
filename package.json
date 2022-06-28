@@ -2,13 +2,7 @@
   "name": "nathanrhythm",
   "version": "1.0.0",
   "description": "A parody game of rhythm heaven fever.",
-  "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
-  },
+  "scripts": {},
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.6.2"
-  }
+  "license": "ISC"
 }
